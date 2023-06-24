@@ -1,0 +1,24 @@
+chestLocation:
+  x:
+  y:
+  z:
+  world:
+
+database:
+  host:
+  port:
+  database:
+  username:
+  password:
+
+messages:
+  chestGUITitle: '&l&cKisten'
+  apolloLootTitle: '&aApollo&7-&aKiste'
+  poseidonLootTitle: '&5Poseidon&f-&5Kiste'
+  heroLootTitle: '&eHero&f-&eKiste'
+
+price:
+  apollo: 1000
+  poseidon: 5000
+  hero: 10000
+

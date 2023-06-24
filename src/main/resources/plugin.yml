@@ -1,0 +1,7 @@
+name: TestChest
+version: '${project.version}'
+main: com.dxzell.testchest.TestChest
+api-version: 1.19
+commands:
+  add:
+
